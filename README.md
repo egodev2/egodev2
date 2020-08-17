@@ -1,6 +1,6 @@
 ### Diego Martos - @dmb42odyssey 👋
 
-Hey, I'm Diego a gradute student at Universidade Federal do ABC, and my research is focused in software engineering and the developing/use of serious games. I love playing Final Fantasy XIV + The Legend of Zelda: Ocarina of Time, and mess around with video/sound edition.
+Hey, I'm Diego a gradute student at Universidade Federal do ABC, and my research is focused in software engineering and the development/use of serious games. I love playing Final Fantasy XIV + The Legend of Zelda: Ocarina of Time, and mess around with video/sound edition.
 
 ## Quick facts
 
