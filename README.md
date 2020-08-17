@@ -21,6 +21,7 @@ Hey, I'm Diego a gradute student at Universidade Federal do ABC, and my research
 * :mortar_board: Languages: Java, C#, C, Lua, HTML, CSS
 * :wrench: Tools: Unity, Virtual Studio Code, LOVE 2D
 
+## Last activity
 <details>
   <summary>:zap: Recent Github Activity</summary>
   
