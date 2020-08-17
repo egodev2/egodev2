@@ -11,20 +11,15 @@ Hey, I'm Diego a gradute student at Universidade Federal do ABC, and my research
 - ⚡ Fun fact: I love to play retro games competitively.
 - :bulb: What i value most in any project: organization/planning, transform in smaller and achievable tasks.
 
-<!-->
-### Spotify Playing 🎧
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
--->
-
 ### Get in touch:
 
 * LinkeDin: [linkedin]
-* Personal Site: [website]
+* Personal Site: http://egodev.org/
 
 ### Languages and Tools:
 
-:mortar_board: Languages: Java, C#, C, Lua, HTML, CSS
-:wrench: Tools: Unity, Virtual Studio Code, LOVE 2D
+* :mortar_board: Languages: Java, C#, C, Lua, HTML, CSS
+* :wrench: Tools: Unity, Virtual Studio Code, LOVE 2D
 
 <details>
   <summary>:zap: Recent Github Activity</summary>
