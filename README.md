@@ -1,6 +1,6 @@
 ### Diego Martos - @egodev2 👋
 
-Hey, I'm Diego a gradute student at Universidade Federal do ABC, and my research is focused in software engineering and the development/use of serious games. I love playing Final Fantasy XIV + The Legend of Zelda: Ocarina of Time :space_invader:, and mess around with video/sound edition.
+Hey, I'm Diego, a graduate student at Universidade Federal do ABC, and my research is focused in software engineering and the development/use of serious games. I love playing Final Fantasy XIV + The Legend of Zelda: Ocarina of Time :space_invader:, and mess around with video/sound edition.
 
 ## Quick facts
 
@@ -9,7 +9,7 @@ Hey, I'm Diego a gradute student at Universidade Federal do ABC, and my research
 - 👯 I’m looking to collaborate with other game creators.
 - 🥅 2020 Goals: Stay healthy and get my website sorted out.
 - ⚡ Fun fact: I love to play retro games competitively.
-- :bulb: What i value most in any project: organization/planning, transform in smaller and achievable tasks.
+- :bulb: What i value most in any project: organization/planning, transformation of activities in smaller and achievable tasks.
 
 ### Get in touch:
 
