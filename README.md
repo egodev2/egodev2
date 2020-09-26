@@ -26,11 +26,13 @@ Hey, I'm Diego, a graduate student at Universidade Federal do ABC, and my resear
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#249](https://github.com//abhisheknaiidu/awesome-github-profile-readme/issues/249) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com//abhisheknaiidu/awesome-github-profile-readme)
-2. 🗣 Commented on [#249](https://github.com//abhisheknaiidu/awesome-github-profile-readme/issues/249) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com//abhisheknaiidu/awesome-github-profile-readme)
-3. 💪 Opened PR [#249](https://github.com//abhisheknaiidu/awesome-github-profile-readme/pull/249) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com//abhisheknaiidu/awesome-github-profile-readme)
-4. ❗️ Closed issue [#9](https://github.com//jamesgeorge007/github-activity-readme/issues/9) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
-5. 🗣 Commented on [#9](https://github.com//jamesgeorge007/github-activity-readme/issues/9) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
+
+<!-- -->
+Working in a game quiz using Unity in [Diversão Séria](https://github.com/diversao-seria/quiz-unity).
+<!-- 3. 💪 Opened PR [#249](https://github.com//abhisheknaiidu/awesome-github-profile-readme/pull/249) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com//abhisheknaiidu/awesome-github-profile-readme) -->
+<!-- 4. ❗️ Closed issue [#9](https://github.com//jamesgeorge007/github-activity-readme/issues/9) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme) -->
+<!-- 5. 🗣 Commented on [#9](https://github.com//jamesgeorge007/github-activity-readme/issues/9) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme) -->
+
 <!--END_SECTION:activity-->
 
 </details>
