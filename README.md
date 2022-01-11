@@ -7,14 +7,14 @@ Hey, I'm Diego, a graduate student at Universidade Federal do ABC, and my resear
 - 🔭 I'm pursuing a master's degree at Universidade Federal do ABC.
 - :books: I’m currently learning about video/sound editing and model-driven development.
 - 👯 I’m looking to collaborate with other game creators.
-- 🥅 2020 Goals: Stay healthy and get my website sorted out.
+- 🥅 2022 Goals: Stay healthy and learn more about tech-leadership of video game development.
 - ⚡ Fun fact: I love to play retro games competitively.
-- :bulb: What i value most in any project: organization/planning, transformation of activities in smaller and achievable tasks.
+- :bulb: What I value most in any project: organization/planning, transformation of activities in smaller and achievable tasks.
 
 ### Get in touch:
 
 * LinkeDin: [linkedin]
-* Personal Site: http://egodev.org/
+* Personal Site: under cosntruction
 
 ### Languages and Tools:
 
