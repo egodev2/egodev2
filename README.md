@@ -1,12 +1,12 @@
 ### Diego Martos - @egodev2 👋
 
-Hey, I'm Diego, a graduate student at Universidade Federal do ABC, and my research is focused in software engineering and the development/use of serious games. I love playing Final Fantasy XIV + The Legend of Zelda: Ocarina of Time :space_invader:, and mess around with video/sound edition.
+Hey, I'm Diego, a graduate student at Universidade Federal do ABC, and my research is focused in software engineering and the development/use of serious games. I love playing Final Fantasy XIV + The Legend of Zelda: Ocarina of Time :space_invader:.
 
 ## Quick facts
 
 - 🔭 I'm pursuing a master's degree at Universidade Federal do ABC.
-- :books: I’m currently learning about video/sound editing and model-driven development.
-- 👯 I’m looking to collaborate with other game creators.
+- :books: I’m currently studying about model-driven development and working as programmer/lead programmer of Quizle as a lab project.
+- 👯 I’m looking to collaborate with other game creators and working with the game development industry.
 - 🥅 2022 Goals: Stay healthy and learn more about tech-leadership of video game development.
 - ⚡ Fun fact: I love to play retro games competitively.
 - :bulb: What I value most in any project: organization/planning, transformation of activities in smaller and achievable tasks.
@@ -17,8 +17,8 @@ Hey, I'm Diego, a graduate student at Universidade Federal do ABC, and my resear
 
 ### Languages and Tools:
 
-* :mortar_board: Languages: Java, C#, C, Lua, HTML, CSS
-* :wrench: Tools: Unity, Virtual Studio Code, LOVE 2D
+* :mortar_board: Languages: Javascript, python, C#, C, Xtend, Lua, HTML, CSS
+* :wrench: Tools: Unity, Virtual Studio Code, LOVE 2D, Eclipse
 
 ## Last activity
 <details>
