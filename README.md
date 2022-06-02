@@ -14,7 +14,6 @@ Hey, I'm Diego, a graduate student at Universidade Federal do ABC, and my resear
 ### Get in touch:
 
 * LinkeDin: [linkedin]
-* Personal Site: under cosntruction
 
 ### Languages and Tools:
 
